@@ -1,3 +1,3 @@
-export const Greet = ({ name }) => {
-  return <div>Hello {name}</div>;
+export const Greet = (props) => {
+  return <div>Hello {props.name ? props.name : "Guests"}</div>;
 };
