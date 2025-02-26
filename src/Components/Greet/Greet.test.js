@@ -16,3 +16,5 @@ describe("Greet", () => {
   //     });
   //   });
 });
+
+// "coverage": "react-scripts test --coverage --watchAll --collectCoverageFrom='src/Components/**/*.{js,jsx}' --collectCoverageFrom='!src/Components/**/*.{stories,constants,test,spec}.{js,jsx}'"

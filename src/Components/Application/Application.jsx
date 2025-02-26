@@ -19,7 +19,7 @@ export const Application = () => {
       <div>
         <label>
           <input type="checkbox" id="terms" /> I agree to the terms and
-          conditions
+          condition
         </label>
       </div>
       <button>Submit</button>
